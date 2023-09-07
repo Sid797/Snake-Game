@@ -6,7 +6,7 @@
 
 
 ## Snake Game
-Pla the classic Snake game made using HTML,CSS,JAVASCRIPT.
+Play the classic Snake game made using HTML,CSS,JAVASCRIPT.
 
 ## How To Play The Game
 
